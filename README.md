@@ -3,7 +3,7 @@
 Hey there! 👋
 
 I'm Safa, a passionate second-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!
-About Me
+<b>About Me</b>
 
 I have always been captivated by the world of technology and its endless possibilities. From a young age, I was drawn to computers and coding, and that curiosity has only grown stronger over the years. Currently pursuing my software engineering degree, I am constantly exploring new concepts, languages, and frameworks to expand my knowledge and enhance my skills.
 
