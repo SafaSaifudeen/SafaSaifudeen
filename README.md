@@ -1,32 +1,6 @@
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>GitHub Profile README - Safa</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
 
-        h1, h2, p {
-            margin-bottom: 10px;
-        }
-
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
     <h1>Hey there! 👋</h1>
 
     <p>I'm Safa, a passionate second-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!</p>
@@ -52,8 +26,6 @@
     <p>If you have any questions, suggestions, or just want to connect, feel free to reach out to me. I am actively seeking to expand my network and engage with like-minded individuals who share a passion for software development. You can find me on <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> and <a href="https://twitter.com/your-twitter-handle">Twitter</a>.</p>
 
     <p>Thank you for visiting my GitHub profile, and I look forward to connecting with you! 😊</p>
-</body>
-</html>
 
 
 
