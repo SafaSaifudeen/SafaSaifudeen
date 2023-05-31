@@ -1,5 +1,7 @@
-
-<div id="content" align="center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="content" >
 
 <h1>Hey there! 👋</h1>
 <p>I'm Safa, a passionate second-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!</p>
@@ -17,7 +19,13 @@
 
 <h2>Connect with Me</h2>
 
-<p>If you have any questions, suggestions, or just want to connect, feel free to reach out to me. I am actively seeking to expand my network and engage with like-minded individuals who share a passion for software development. You can find me on <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> and <a href="https://twitter.com/your-twitter-handle">Twitter</a>.</p>
+<p>If you have any questions, suggestions, or just want to connect, feel free to reach out to me. I am actively seeking to expand my network and engage with like-minded individuals who share a passion for software development. You can find me onLinkedIn.</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/safa-saifudeen-2a4506232/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div>
 
 <p>Thank you for visiting my GitHub profile, and I look forward to connecting with you! 😊</p>
 </div>
@@ -25,12 +33,5 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/safa-saifudeen-2a4506232/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
-</div>
+
