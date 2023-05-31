@@ -1,5 +1,5 @@
 
-
+<div>
 
     <h1>Hey there! 👋</h1>
 
@@ -26,7 +26,7 @@
     <p>If you have any questions, suggestions, or just want to connect, feel free to reach out to me. I am actively seeking to expand my network and engage with like-minded individuals who share a passion for software development. You can find me on <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a> and <a href="https://twitter.com/your-twitter-handle">Twitter</a>.</p>
 
     <p>Thank you for visiting my GitHub profile, and I look forward to connecting with you! 😊</p>
-
+</div>
 
 
 
