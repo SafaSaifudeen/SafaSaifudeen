@@ -2,6 +2,7 @@
 <div id="content" align="center">
 
 <h1>Hey there! 👋</h1>
+<p>I'm Safa, a passionate second-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!</p>
 </div>
 
 
