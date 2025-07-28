@@ -4,7 +4,7 @@
 <div id="content" >
 
 <h1>Hey there! 👋</h1>
-<p>I'm Safa, a passionate second-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!</p>
+<p>I'm Safa, a passionate Final-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!</p>
 <h2>Interests and Expertise</h2>
 
 <p>My primary focus lies in software development, where I enjoy bringing ideas to life through well-structured code. I have a solid foundation in various programming languages, including but not limited to Java, Python, and JavaScript. I am also familiar with web development technologies such as HTML, CSS, and front-end frameworks like React.</p>
