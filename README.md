@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="content" >
 
 <h1>Hey there! 👋</h1>
 <p>I'm Safa, a passionate Final-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!</p>
