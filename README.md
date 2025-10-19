@@ -1,36 +1,59 @@
+<!-- Intro Banner -->
+<h1 align="center">Hi, I'm Safa Saifudeen 👋</h1>
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
+  — Cory House
+</p>
 
-<h1>Hey there! 👋</h1>
-<p>I'm Safa, a passionate Final-year software undergrad, and I'm thrilled to welcome you to my GitHub profile!</p>
-<h2>Interests and Expertise</h2>
+---
 
-<p>My primary focus lies in software development, where I enjoy bringing ideas to life through well-structured code. I have a solid foundation in various programming languages, including but not limited to Java, Python, and JavaScript. I am also familiar with web development technologies such as HTML, CSS, and front-end frameworks like React.</p>
+### 🌟 About Me
 
-<p>I am enthusiastic about problem-solving and thrive in collaborative environments where I can brainstorm and work with others to find innovative solutions. Additionally, I have a keen interest in data structures, algorithms, and the overall optimization of software systems.</p>
+I'm **Safa**, a passionate **Final-year Software Engineering undergraduate** who loves crafting meaningful software solutions.  
+My focus is on building efficient, scalable systems — with clean code and creative problem-solving.
 
-<h2>Projects</h2>
+- 💻 Core Interests: **Full Stack Development**, **AI / ASR Research**, **System Design**
+- ⚙️ Skilled in: **Java**, **Python**, **JavaScript**
+- 🌐 Experienced with: **React**, **Node.js**, **.NET (C#)**, **SQL**
+- 🚀 Enthusiastic about: **Speech AI**, **Contextual ASR**, and **Medical Tech**
 
-<p>Throughout my academic journey and personal exploration, I have worked on numerous projects that have honed my skills and broadened my understanding of different technologies. I enjoy tackling challenges and embracing new ideas, constantly striving to improve and learn from every experience.</p>
+---
 
-<p>Check out my repositories to discover some of the exciting projects I have been involved in. Feel free to explore the code, contribute, or provide feedback. I am always open to collaboration and the opportunity to connect with fellow developers and enthusiasts.</p>
+### 📊 GitHub Stats
 
-<h2>Connect with Me</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SafaSaifudeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaSaifudeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+</p>
 
-<p>If you have any questions, suggestions, or just want to connect, feel free to reach out to me. I am actively seeking to expand my network and engage with like-minded individuals who share a passion for software development. You can find me onLinkedIn.</p>
-<div id="badges" align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SafaSaifudeen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,angular,html,css,tailwind,cs,dotnet,sqlite,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 💼 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/safa-saifudeen-2a4506232/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="mailto:safasaifudeen@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
 
-<p>Thank you for visiting my GitHub profile, and I look forward to connecting with you! 😊</p>
-
-  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SafaSaifudeen&show_icons=true&count_private=false&theme=radical)](https://github.com/SafaSaifudeen)
-</div>
-
-
-
-
-
-
-
+<p align="center">
+  ✨ "Keep learning. Keep building. Keep evolving." ✨
+</p>
