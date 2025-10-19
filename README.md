@@ -12,8 +12,8 @@
 I'm **Safa**, a passionate **Final-year Software Engineering undergraduate** who loves crafting meaningful software solutions.  
 My focus is on building efficient, scalable systems — with clean code and creative problem-solving.
 
-- 💻 Core Interests: **Full Stack Development**, **AI / ASR Research**, **System Design**
-- ⚙️ Skilled in: **Java**, **Python**, **JavaScript**
+- 💻 Core Interests: **Full Stack Development**, **AI / NLP Research**, **System Design**
+- ⚙️ Skilled in: **JavaScript**, **Python**, **Java**
 - 🌐 Experienced with: **React**, **Node.js**, **.NET (C#)**, **SQL**
 - 🚀 Enthusiastic about: **Speech AI**, **Contextual ASR**, and **Medical Tech**
 
@@ -26,9 +26,9 @@ My focus is on building efficient, scalable systems — with clean code and crea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaSaifudeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=SafaSaifudeen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
@@ -47,7 +47,7 @@ My focus is on building efficient, scalable systems — with clean code and crea
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:safasaifudeen@example.com">
+  <a href="mailto:safasaifudeen55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
