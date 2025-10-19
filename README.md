@@ -8,18 +8,9 @@
 ---
 
 ### 🌟 About Me
-
-I'm **Safa**, a passionate **Final-year Software Engineering undergraduate** who loves crafting meaningful software solutions.  
-My focus is on building efficient, scalable systems — with clean code and creative problem-solving.
-
-- 💻 Core Interests: **Full Stack Development**, **AI / NLP Research**, **System Design**
-- ⚙️ Skilled in: **JavaScript**, **Python**, **Java**
-- 🌐 Experienced with: **React**, **Node.js**, **.NET (C#)**, **SQL**
-- 🚀 Enthusiastic about: **Speech AI**, **Contextual ASR**, and **Medical Tech**
-
+I'm **Safa**, a passionate **Software Engineering graduate** who loves crafting meaningful software solutions. 
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SafaSaifudeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="165" />
@@ -54,6 +45,3 @@ My focus is on building efficient, scalable systems — with clean code and crea
 
 ---
 
-<p align="center">
-  ✨ "Keep learning. Keep building. Keep evolving." ✨
-</p>
