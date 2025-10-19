@@ -25,7 +25,7 @@
 
 <p>Thank you for visiting my GitHub profile, and I look forward to connecting with you! 😊</p>
 </div>
-  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=false&theme=radical)](https://github.com/your-username)
+  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SafaSaifudeen&show_icons=true&count_private=false&theme=radical)](https://github.com/SafaSaifudeen)
 
 
 
