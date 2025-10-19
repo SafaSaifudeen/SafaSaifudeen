@@ -1,5 +1,5 @@
 <!-- Intro Banner -->
-<h1 align="center">Hi, I'm Safa Saifudeen 👋</h1>
+<h1 align="center">Hi, I'm Safa 👋</h1>
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
   — Cory House
