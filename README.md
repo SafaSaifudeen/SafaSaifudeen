@@ -1,8 +1,7 @@
 <!-- Intro Banner -->
-<h1 align="center">Hi, I'm Safa 👋</h1>
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
-  — Cory House
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”;—+Cory+House" alt="Animated quote" />
 </p>
 
 ---
